@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "265304266235",
+    "project_id": "yolnereye-12abd",
+    "storage_bucket": "yolnereye-12abd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265304266235:android:31860b1c30ef63f853a75e",
+        "android_client_info": {
+          "package_name": "com.baran.yolnereye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265304266235-tpjd70d33dva0vj7nd826l6gioc9hdoq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baran.yolnereye",
+            "certificate_hash": "0691f46b582782fcd94bd9401122bda85386cf32"
+          }
+        },
+        {
+          "client_id": "265304266235-heq65dpelidchfdolefshbfkrqnn2r72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2PtI4Gs44ujM2T1iDmffq61L5f5Pi0XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265304266235-heq65dpelidchfdolefshbfkrqnn2r72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
